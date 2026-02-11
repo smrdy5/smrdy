@@ -1,21 +1,32 @@
 <div align="center">
 
-# 👾 PHA Somarady
+# <img src="https://media.giphy.com/media/hvRJCLFzcyK6s4G4ux/giphy.gif" width="35"> PHA Somarady
+
 <img src="https://github.com/smrdy5/smrdy/blob/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif?raw=true" width="100%" alt="Pixel Art Banner"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Architect;Junior+CS+Student;IT+Support+Guru;Creative+Content+Creator)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://phasomarady.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <a href="https://phasomarady.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chrome" width="45" alt="Portfolio" />
   </a>
-  <a href="https://github.com/smrdy5">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/smrdy5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/CONNECT-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="60%"/>
 
 </div>
 
