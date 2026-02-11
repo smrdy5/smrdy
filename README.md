@@ -10,35 +10,14 @@
 
 <p align="center">
   <a href="https://phasomarady.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome&theme=dark" width="48" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/smrdy5" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="48" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="48" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=chrome,github,gmail,telegram,facebook,instagram&theme=dark" />
   </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2E97&height=2&section=header" width="75%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="55%"/>
 
-</div>
-
+</div>****
 ---
 
 ## ⚡ System Logs
