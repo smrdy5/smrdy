@@ -54,35 +54,47 @@ I'm a **Year 3 Computer Science student** at **Western University** in Phnom Pen
 
 ---
 
+---
+
 ## 🏆 Core Missions
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
+    <td width="48%" align="center" valign="top" style="border: 1px solid #00E5FF; border-radius: 10px; padding: 10px;">
+        <br/>
         <a href="https://myhbusinesstaxconsult.com/">
-          <img src="https://img.shields.io/badge/LINK_ESTABLISHED-00E5FF?style=for-the-badge&logo=target&logoColor=black" />
+          <img src="https://img.shields.io/badge/LINK_ESTABLISHED-00E5FF?style=for-the-badge&logo=target&logoColor=black" width="100%"/>
         </a>
         <br/><br/>
-        <h3>🏢 M.Y.H Consulting</h3>
-        <p><i>Corporate Digital Interface</i></p>
+        <font color="#00E5FF"><h3>🏢 M.Y.H Consulting</h3></font>
+        <p align="center"><i>Corporate Digital Interface for Tax & Audit</i></p>
+        <hr color="#00E5FF" size="1">
         <img src="https://skillicons.dev/icons?i=js,bootstrap,html,css" alt="Stack" />
-      </div>
+        <p align="left">
+          &nbsp;&nbsp; 💠 Responsive architecture<br/>
+          &nbsp;&nbsp; 💠 Client outreach optimization
+        </p>
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
+    <td width="4%"></td>
+    <td width="48%" align="center" valign="top" style="border: 1px solid #FF2E97; border-radius: 10px; padding: 10px;">
+        <br/>
         <a href="https://www.greenjaspercambodia.com/">
-          <img src="https://img.shields.io/badge/MARKET_ACCESS-FF2E97?style=for-the-badge&logo=hyperledger&logoColor=white" />
+          <img src="https://img.shields.io/badge/MARKET_ACCESS-FF2E97?style=for-the-badge&logo=hyperledger&logoColor=white" width="100%"/>
         </a>
         <br/><br/>
-        <h3>💎 Green Jasper Cambodia</h3>
-        <p><i>E-commerce Grid</i></p>
+        <font color="#FF2E97"><h3>💎 Green Jasper Cambodia</h3></font>
+        <p align="center"><i>Premium E-commerce Grid for Gemstones</i></p>
+        <hr color="#FF2E97" size="1">
         <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,tailwind" alt="Stack" />
-      </div>
+        <p align="left">
+          &nbsp;&nbsp; 💠 Full-stack e-commerce logic<br/>
+          &nbsp;&nbsp; 💠 Brand storytelling integration
+        </p>
     </td>
   </tr>
 </table>
 
+---
 ---
 
 <div align="center">
