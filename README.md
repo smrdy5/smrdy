@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=System.Architect(Full_Stack);Hardware.Specialist(IT_Support);Creative.Director(Content);Problem_Solver.exe)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://phasomarady.com" target="_blank">
+  <a href="https://smrdy.xyz" target="_blank">
     <img src="https://cdn.simpleicons.org/googlechrome/00E5FF" width="40" height="40" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/smrdy5" target="_blank">
