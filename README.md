@@ -8,50 +8,54 @@
 
 <p align="center">
   <a href="https://smrdy.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-smrdy.xyz-74E070?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PRO_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=74E070&labelColor=1a1a1a" />
   </a>
-  <img src="https://img.shields.io/badge/Education-Western%20University-red?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/WESTERN_UNI-000000?style=for-the-badge&logo=education&logoColor=74E070&labelColor=1a1a1a" />
 </p>
 
 ---
 
-### 👤 Profile Summary
-I am a 3rd-year Computer Science student at **Western University** specializing in robust web systems and IT infrastructure. My focus is on building scalable applications with **Next.js** and **Laravel** while maintaining secure and efficient network environments.
+### 👤 Executive Summary
+I am a 3rd-year Computer Science student at **Western University** specializing in robust web systems and IT infrastructure. I bridge the gap between high-performance code and secure network environments.
 
-- 🌐 **Portfolio:** [smrdy.xyz](https://smrdy.xyz)
-- 📍 **Location:** Phnom Penh, Cambodia
-- 💼 **Experience:** Web Dev for **Green Jasper Cambodia** & **MYH**.
-- 🛠️ **Skills:** Full-stack development, DNS Management, and IT Troubleshooting.
-
----
-
-### 💻 Tech Stack & IT Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Networking-DNS%2FIP-blue?style=for-the-badge&logo=cloudfare&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT%20Support-Troubleshooting-orange?style=for-the-badge&logo=helpdesk&logoColor=white" />
-</p>
+- 💼 **Professional Experience:** Web Dev @ **Green Jasper Cambodia** & **MYH**.
+- 🛠️ **System Focus:** DNS Management & Enterprise IT Troubleshooting.
+- 📍 **Based in:** Phnom Penh, Cambodia.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Technical Arsenal
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?smrdy5=YOUR_USERNAME&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,php,django,mysql,postgres,github,git,docker,linux" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=smrdy5&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://img.shields.io/badge/Network_Infrastructure-1a1a1a?style=flat-square&logo=cloudflare&logoColor=74E070" />
+  <img src="https://img.shields.io/badge/System_Support-1a1a1a?style=flat-square&logo=windowsterminal&logoColor=74E070" />
+  <img src="https://img.shields.io/badge/Web_Security-1a1a1a?style=flat-square&logo=auth0&logoColor=74E070" />
 </p>
 
 ---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrdy5&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smrdy5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrdy5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:SMRDY_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Direct_Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=74E070" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=74E070&height=100&section=footer" width="100%" />
