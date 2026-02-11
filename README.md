@@ -9,13 +9,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=System.Architect(Full_Stack);Hardware.Specialist(IT_Support);Creative.Director(Content);Problem_Solver.exe)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://phasomarady.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="https://github.com/smrdy5" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <br>
-  <a href="https://t.me/yourusername" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://phasomarady.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/smrdy5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2E97&height=2&section=header" width="75%"/>
