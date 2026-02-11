@@ -15,16 +15,16 @@
   <a href="https://github.com/smrdy5" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:phasomarady123@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/FF2E97" width="40" height="40" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/smrdy" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/00E5FF" width="40" height="40" alt="Telegram" />
   </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://facebook.com/smrdyyyy" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/FF2E97" width="40" height="40" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/ydaramos_ahp" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/00E5FF" width="40" height="40" alt="Instagram" />
   </a>
 </p>
