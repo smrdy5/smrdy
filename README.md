@@ -58,25 +58,6 @@ I'm a **Year 3 Computer Science student** at **Western University** in Phnom Pen
 
 ---
 
-## 📈 Galactic Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=smrdy5&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=FF2E97&text_color=D4D4D4&bg_color=00000000" width="400px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrdy5&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=D4D4D4&bg_color=00000000" width="300px"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrdy5&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=FF2E97&currStreakLabel=00E5FF" width="100%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
   <br/>
