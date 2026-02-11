@@ -34,41 +34,47 @@
 
 </div>
 
+---
+
 ## 🏆 Core Missions
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px;">
+    <td width="50%" align="center" valign="top">
+      <div style="margin: 5px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <br/>
-        <a href="https://myhbusinesstaxconsult.com/">
+        <a href="https://myhbusinesstaxconsult.com/" target="_blank">
           <img src="https://img.shields.io/badge/LINK_ESTABLISHED-00E5FF?style=for-the-badge&logo=target&logoColor=black" />
         </a>
         <br/><br/>
         <font color="#00E5FF"><h3>🏢 M.Y.H Consulting</h3></font>
         <p align="center"><i>Corporate Digital Interface for Tax & Audit</i></p>
-        <hr color="#30363d" size="1">
+        <hr color="#30363d" size="1" width="80%">
         <img src="https://skillicons.dev/icons?i=js,bootstrap,html,css" alt="Stack" />
         <br/><br/>
         <p align="left">
           &nbsp;&nbsp; 💠 Responsive architecture<br/>
           &nbsp;&nbsp; 💠 Client outreach optimization
         </p>
+      </div>
     </td>
-    <td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px;">
+    <td width="50%" align="center" valign="top">
+      <div style="margin: 5px; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <br/>
-        <a href="https://www.greenjaspercambodia.com/">
+        <a href="https://www.greenjaspercambodia.com/" target="_blank">
           <img src="https://img.shields.io/badge/MARKET_ACCESS-FF2E97?style=for-the-badge&logo=hyperledger&logoColor=white" />
         </a>
         <br/><br/>
         <font color="#FF2E97"><h3>💎 Green Jasper Cambodia</h3></font>
         <p align="center"><i>Premium E-commerce Grid for Gemstones</i></p>
-        <hr color="#30363d" size="1">
+        <hr color="#30363d" size="1" width="80%">
         <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,tailwind,figma" alt="Stack" />
         <br/><br/>
         <p align="left">
           &nbsp;&nbsp; 💠 Full-stack e-commerce logic<br/>
           &nbsp;&nbsp; 💠 Brand storytelling integration
         </p>
+      </div>
     </td>
   </tr>
 </table>
