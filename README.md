@@ -48,13 +48,44 @@ I'm a **Year 3 Computer Science student** at **Western University** in Phnom Pen
 </p>
 
 ---
+---
 
 ## 🏆 Featured Missions
 
-| Project | Stack | Status |
-| :--- | :--- | :--- |
-| **M.Y.H Consulting** | `JS` `Bootstrap` `UI/UX` | [Visit Live ↗️](https://myhbusinesstaxconsult.com/) |
-| **Green Jasper** | `Laravel` `Next.js` `MySQL` | [Visit Live ↗️](https://www.greenjaspercambodia.com/) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://myhbusinesstaxconsult.com/">
+          <img src="https://img.shields.io/badge/LIVE_PROJECT-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" />
+        </a>
+        <br/><br/>
+        <h3>🏢 M.Y.H Business & Tax</h3>
+        <p><i>Professional Tax & Audit Consulting Platform</i></p>
+        <img src="https://skillicons.dev/icons?i=js,bootstrap,html,css" alt="Stack" />
+      </div>
+      <ul>
+        <li>Responsive corporate identity</li>
+        <li>Client outreach optimization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://www.greenjaspercambodia.com/">
+          <img src="https://img.shields.io/badge/LIVE_STORE-FF2E97?style=for-the-badge&logo=shopify&logoColor=white" />
+        </a>
+        <br/><br/>
+        <h3>💎 Green Jasper Cambodia</h3>
+        <p><i>Premium E-commerce for Gemstones</i></p>
+        <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,tailwind" alt="Stack" />
+      </div>
+      <ul>
+        <li>Full-stack architecture</li>
+        <li>Brand storytelling integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
