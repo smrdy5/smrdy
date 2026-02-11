@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm9qZzRyZzRyeGZ3bm9qZzRyZzRyeGZ3bm9qZzRyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcyK6s4G4ux/giphy.gif" width="35"> PHA Somarady
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> PHA Somarady
 
 <img src="https://github.com/smrdy5/smrdy/blob/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif?raw=true" width="100%" alt="Cyberpunk Banner"/>
 
@@ -9,17 +9,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=System.Architect(Full_Stack);Hardware.Specialist(IT_Support);Creative.Director(Content);Problem_Solver.exe)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://phasomarady.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome,github,gmail,telegram,facebook,instagram&theme=dark" />
-  </a>
+  <a href="https://phasomarady.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://github.com/smrdy5" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br>
+  <a href="https://t.me/yourusername" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2E97&height=2&section=header" width="75%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="55%"/>
 
-</div>****
----
-
+</div>
 ## ⚡ System Logs
 
 I'm a **Year 3 Computer Science student** at **Western University** in Phnom Penh. I specialize in building digital infrastructures and troubleshooting complex hardware arrays.
