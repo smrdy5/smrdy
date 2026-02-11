@@ -10,22 +10,22 @@
 
 <p align="center">
   <a href="https://phasomarady.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/googlechrome/00E5FF" width="40" height="40" alt="Portfolio" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/smrdy5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" />
   </a>&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/gmail/FF2E97" width="40" height="40" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/telegram/00E5FF" width="40" height="40" alt="Telegram" />
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/facebook/FF2E97" width="40" height="40" alt="Facebook" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+    <img src="https://cdn.simpleicons.org/instagram/00E5FF" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 
@@ -33,7 +33,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="55%"/>
 
 </div>
-## ⚡ System Logs
+
+⚡ System Logs
 
 I'm a **Year 3 Computer Science student** at **Western University** in Phnom Penh. I specialize in building digital infrastructures and troubleshooting complex hardware arrays.
 
