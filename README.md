@@ -34,73 +34,53 @@
 
 </div>
 
-⚡ System Logs
-
-I'm a **Year 3 Computer Science student** at **Western University** in Phnom Penh. I specialize in building digital infrastructures and troubleshooting complex hardware arrays.
-
-- 🖥️ **Current Load:** Architecting scalable web systems.
-- 💾 **Specialty:** Laravel, Next.js, and Data Integrity.
-- 🔌 **Status:** Available for collaboration in the Night City grid.
-
 ---
 
 ## 🛠️ Cyber Stack
 
+### 🎨 Design & Creative
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,laravel,php,mysql,postgres,py,django,git,linux,ps,vercel" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,canva&theme=dark" />
+  </a>
+</p>
+
+### 💻 Development Grid
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,laravel,php,mysql,postgres,py,django,git,linux,vercel" />
   </a>
 </p>
 
 ---
 
----
-
 ## 🏆 Core Missions
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <td width="48%" align="center" valign="top" style="border: 1px solid #00E5FF; border-radius: 10px; padding: 10px;">
-        <br/>
+    <td width="50%" align="center" valign="top">
         <a href="https://myhbusinesstaxconsult.com/">
-          <img src="https://img.shields.io/badge/LINK_ESTABLISHED-00E5FF?style=for-the-badge&logo=target&logoColor=black" width="100%"/>
+          <img src="https://img.shields.io/badge/LINK_ESTABLISHED-00E5FF?style=for-the-badge&logo=target&logoColor=black" />
         </a>
-        <br/><br/>
-        <font color="#00E5FF"><h3>🏢 M.Y.H Consulting</h3></font>
-        <p align="center"><i>Corporate Digital Interface for Tax & Audit</i></p>
-        <hr color="#00E5FF" size="1">
+        <h3>🏢 M.Y.H Consulting</h3>
+        <p><i>Corporate Digital Interface</i></p>
         <img src="https://skillicons.dev/icons?i=js,bootstrap,html,css" alt="Stack" />
-        <p align="left">
-          &nbsp;&nbsp; 💠 Responsive architecture<br/>
-          &nbsp;&nbsp; 💠 Client outreach optimization
-        </p>
     </td>
-    <td width="4%"></td>
-    <td width="48%" align="center" valign="top" style="border: 1px solid #FF2E97; border-radius: 10px; padding: 10px;">
-        <br/>
+    <td width="50%" align="center" valign="top">
         <a href="https://www.greenjaspercambodia.com/">
-          <img src="https://img.shields.io/badge/MARKET_ACCESS-FF2E97?style=for-the-badge&logo=hyperledger&logoColor=white" width="100%"/>
+          <img src="https://img.shields.io/badge/MARKET_ACCESS-FF2E97?style=for-the-badge&logo=hyperledger&logoColor=white" />
         </a>
-        <br/><br/>
-        <font color="#FF2E97"><h3>💎 Green Jasper Cambodia</h3></font>
-        <p align="center"><i>Premium E-commerce Grid for Gemstones</i></p>
-        <hr color="#FF2E97" size="1">
+        <h3>💎 Green Jasper Cambodia</h3>
+        <p><i>E-commerce Grid</i></p>
         <img src="https://skillicons.dev/icons?i=laravel,nextjs,mysql,tailwind" alt="Stack" />
-        <p align="left">
-          &nbsp;&nbsp; 💠 Full-stack e-commerce logic<br/>
-          &nbsp;&nbsp; 💠 Brand storytelling integration
-        </p>
     </td>
   </tr>
 </table>
 
----
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=smrdy5&color=00E5FF&style=for-the-badge&label=TERMINAL_ACCESSES" />
-  <br/>
-  <font color="#FF2E97"><b>"Code with purpose, design with passion"</b></font>
 </div>
